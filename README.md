@@ -1,2 +1,1 @@
-# Dad-Jokes-Dispenser-Chrome-Extension
-Click on the extension to get a random Dad Joke every time.
+This Chrome extension generates a random joke using icanhazdadjoke API, every time when you click it.
